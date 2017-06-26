@@ -13,7 +13,7 @@
       
         "psr-4": {
     
-            "Hxit\\Web\\":"src/",
+            "Hxit\\Web\\":"src/"
             
         }
     },
