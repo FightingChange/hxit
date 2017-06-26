@@ -1,0 +1,20 @@
+{
+    "name": "fightingchange/hxit",
+    "description": "ddd",
+    "authors": [
+        {
+            "name": "gao",
+            "email": "855636886@sqq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+     "autoload": {
+      
+        "psr-4": {
+    
+            "Hxit\\Web\\":"src/",
+            
+        }
+    },
+}
